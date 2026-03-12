@@ -50,11 +50,12 @@ body {
 }
 
 p {
-  font-weight: 200;
+  font-weight: 500;
 }
 
 .card__body-title {
   font-size: 12px;
+  font-weight: 800;
 }
 
 .card__body-title:hover {
